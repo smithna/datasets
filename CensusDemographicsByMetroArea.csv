@@ -1,4 +1,4 @@
-﻿m.name,population,medianHomePrice,percentPopulation25AndOverWithBachelorsDegreeOrHigher,medianHouseholdIncome
+name,population,medianHomePrice,percentOver25WithBachelors,medianHouseholdIncome
 "Aberdeen, SD Micro Area",42824,173300,29.1,59270
 "Aberdeen, WA Micro Area",72779,199700,16.5,51240
 "Abilene, TX Metro Area",170669,142900,23.0,52511
